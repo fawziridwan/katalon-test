@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>message_seller_mobile_phone_min_eight_digit</name>
+   <tag></tag>
+   <elementGuidId>5bfee79f-02f5-4fad-b47c-3ed4793004fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/form/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1df661c4-3a38-4c82-9620-051990f79f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xs text-accent-error-70</value>
+      <webElementGuid>1ceb63bb-988b-47ae-b418-d5e971b56491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Handphone minimal 8 digit</value>
+      <webElementGuid>0ddf782a-e92a-4554-80cf-d5c162f8a8d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex justify-center items-center min-h-screen bg-login-wrapper text-paletteText-primary&quot;]/div[@class=&quot;w-full lg:h-auto 2xl:max-w-screen-lg 2xl:h-auto w-full bg-white 2xl:rounded-lg lg:flex overflow-hidden&quot;]/div[@class=&quot;flex flex-col justify-center items-center w-full h-full px-4 lg:p-10 py-10&quot;]/form[@class=&quot;space-y-4 w-full mt-4&quot;]/div[@class=&quot;w-full&quot;]/span[@class=&quot;text-xs text-accent-error-70&quot;]</value>
+      <webElementGuid>8d4f61ed-e1ea-4c1d-9787-257d75005a0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/form/div[3]/span</value>
+      <webElementGuid>147dcc06-8bbf-4484-8047-63ef0e4fb4c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/following::span[1]</value>
+      <webElementGuid>757d6e45-d648-4304-8aed-05c8bdd697dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone'])[1]/following::span[2]</value>
+      <webElementGuid>fde3d851-a37d-4dbb-8094-7b58ca6e04ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Referal (Tidak Wajib)'])[1]/preceding::span[1]</value>
+      <webElementGuid>d3ac5325-15db-4c2f-97b5-1aca9afb2d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::span[1]</value>
+      <webElementGuid>221358e6-3fc4-4f3c-887e-93aaf04efa51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Handphone minimal 8 digit']/parent::*</value>
+      <webElementGuid>ea58cfdd-6ce3-4286-973f-6b16024139f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>55b01a70-c7bb-4bad-8590-a3aac26b9fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Handphone minimal 8 digit' or . = 'Handphone minimal 8 digit')]</value>
+      <webElementGuid>3e76eb71-39b1-4131-ba19-9cc286fb78a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

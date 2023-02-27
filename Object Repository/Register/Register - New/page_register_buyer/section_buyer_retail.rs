@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_buyer_retail</name>
+   <tag></tag>
+   <elementGuidId>b428fa39-f195-4256-81fa-71ee478e78f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/section/div/div/div[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>10b1571f-e973-486c-b66c-dfa82c8cfc5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold text-lg text-paletteText-primary text-center sm:text-left</value>
+      <webElementGuid>36ba7053-03f2-45b6-a31d-18a9680d9811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pembeli Retail</value>
+      <webElementGuid>6cfe3c2d-c236-465e-bba4-b1dd357f2381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[2]/section[@class=&quot;flex justify-center items-center lg:h-screen bg-login-wrapper&quot;]/div[@class=&quot;max-w-screen-lg w-full bg-white rounded-lg lg:m-6 lg:flex overflow-hidden&quot;]/div[@class=&quot;flex flex-col justify-center items-center h-screen lg:h-full w-full p-10&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex flex-col sm:flex-row space-y-4 sm:space-y-0 w-full bg-inactive rounded-lg py-3 px-5 sm:space-x-5 cursor-pointer hover:bg-gray-200 mb-4&quot;]/div[@class=&quot;flex flex-col justify-center text-paletteText-primary space-y-1&quot;]/div[@class=&quot;font-bold text-lg text-paletteText-primary text-center sm:text-left&quot;]</value>
+      <webElementGuid>a8434113-1bfb-49ce-8661-f04dd026db06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/section/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>2c599f7f-17c3-4149-8153-626cd8c88080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sebagai'])[1]/following::div[7]</value>
+      <webElementGuid>c0f5ee6f-bbdb-4f17-971c-5b18198689db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan diskon dan promo menarik setiap hari'])[1]/preceding::div[1]</value>
+      <webElementGuid>a0047e40-7419-4ee3-a9c7-85abcf5fc670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penjual'])[1]/preceding::div[4]</value>
+      <webElementGuid>550e6320-75c3-47ca-8e4c-787f0d61460e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pembeli Retail']/parent::*</value>
+      <webElementGuid>203cad4e-5328-46d4-8442-584affb2dbd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>64f3b0ec-4804-4703-a3e2-80dcba658ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pembeli Retail' or . = 'Pembeli Retail')]</value>
+      <webElementGuid>2a517a7d-9907-4f13-a02e-e1b9e46e7ff7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

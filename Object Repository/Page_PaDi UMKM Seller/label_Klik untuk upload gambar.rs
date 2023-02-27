@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Klik untuk upload gambar</name>
+   <tag></tag>
+   <elementGuidId>c7ef229d-e4f8-41a2-8eef-fb225b8b2e73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[2]/div[2]/div[2]/div[4]/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.flex.flex-row.justify-center.items-center.tracking-wide.appearance-none.border.border-dashed.border-paletteText-inactive.rounded-lg.w-full.py-2.px-3.text-paletteText-inactive.cursor-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2f014305-dddf-43f7-9e90-85849309bd1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c0a3c8b6-f5d0-4bf9-9ea0-0a338b91792b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7a7a1d86-6cfe-4b65-ae67-64dac1adc705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-row justify-center items-center tracking-wide appearance-none border border-dashed border-paletteText-inactive
+                          rounded-lg w-full py-2 px-3 text-paletteText-inactive cursor-pointer</value>
+      <webElementGuid>ae02a06f-02f0-4310-bdc2-3d9f298fb5af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Klik untuk upload gambar</value>
+      <webElementGuid>09a39a56-270e-4483-9dc4-867f0cea98b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex-row justify-center items-between lg:h-screen bg-white text-paletteText-primary&quot;]/div[@class=&quot;flex relative w-full&quot;]/div[@class=&quot;w-full lg:px-[30px] lg:py-[24px] px-4 py-4&quot;]/div[@class=&quot;w-full bg-white shadow-[0_0_10px_rgba(0,0,0,0.15)] rounded-md lg:px-[30px] lg:py-[24px] px-4 py-4 space-y-8 mb-6&quot;]/div[@class=&quot;w-full lg:flex justify-between lg:space-x-4 space-y-4 lg:space-y-0&quot;]/div[@class=&quot;lg:w-8/12 w-full&quot;]/label[@class=&quot;flex flex-row justify-center items-center tracking-wide appearance-none border border-dashed border-paletteText-inactive
+                          rounded-lg w-full py-2 px-3 text-paletteText-inactive cursor-pointer&quot;]</value>
+      <webElementGuid>35567b2a-a20a-4af2-837b-b775084d12fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[2]/div[2]/div[2]/div[4]/div[2]/label</value>
+      <webElementGuid>316f8933-622f-434b-a170-72c70893cabf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wajib'])[4]/following::label[1]</value>
+      <webElementGuid>e9d404db-f6cc-4823-aa4f-0b98ed73ec63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/label</value>
+      <webElementGuid>e4ab5779-a07a-406b-aa86-7545601d707d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Klik untuk upload gambar' or . = 'Klik untuk upload gambar')]</value>
+      <webElementGuid>cecaf9b0-8b15-4031-923c-ba6844218e4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_seller</name>
+   <tag></tag>
+   <elementGuidId>3ce9e5f6-fac8-42ca-9e8c-1ba2f23b201f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/section/div/div/div[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>18d1db67-a074-40e8-8415-9558221a216c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col sm:flex-row space-y-4 sm:space-y-0 w-full bg-inactive rounded-lg py-3 px-5 sm:space-x-5 cursor-pointer hover:bg-gray-200 mb-4</value>
+      <webElementGuid>8ab804b9-0dc3-4621-8de8-f374844ccba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PenjualJual produk secara efisien ke BUMN maupun retail</value>
+      <webElementGuid>12b66845-153a-477a-a109-8e1292737fa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[2]/section[@class=&quot;flex justify-center items-center lg:h-screen bg-login-wrapper&quot;]/div[@class=&quot;max-w-screen-lg w-full bg-white rounded-lg lg:m-6 lg:flex overflow-hidden&quot;]/div[@class=&quot;flex flex-col justify-center items-center h-screen lg:h-full w-full p-10&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/a[1]/div[@class=&quot;flex flex-col sm:flex-row space-y-4 sm:space-y-0 w-full bg-inactive rounded-lg py-3 px-5 sm:space-x-5 cursor-pointer hover:bg-gray-200 mb-4&quot;]</value>
+      <webElementGuid>741f7abc-a7aa-427d-8aad-b9de08ca8c34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/section/div/div/div[2]/a/div</value>
+      <webElementGuid>a38420a6-ca1e-4c5c-a0f9-c72d1080d181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan diskon dan promo menarik setiap hari'])[1]/following::div[1]</value>
+      <webElementGuid>6121d626-6a0e-45ca-b298-fdef54cd9948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembeli Retail'])[1]/following::div[2]</value>
+      <webElementGuid>b8fc336d-ce59-413c-9929-64bb1ea542f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>70de1aea-6620-4d87-9771-5f27d03edbd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PenjualJual produk secara efisien ke BUMN maupun retail' or . = 'PenjualJual produk secara efisien ke BUMN maupun retail')]</value>
+      <webElementGuid>685dc399-dfb6-4720-a10a-b67a12e61f23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

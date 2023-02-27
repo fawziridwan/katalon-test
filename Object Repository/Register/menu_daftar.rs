@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_daftar</name>
+   <tag></tag>
+   <elementGuidId>23e11f2c-a15f-428d-abbb-9c052a3eafb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/div[2]/div[2]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>165e1795-a9d8-4d8b-8ea3-a25aa7522924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-6 w-full sm:w-fit h-10 border rounded-lg text-white font-medium bg-secondary-70 hover:bg-secondary-40</value>
+      <webElementGuid>9bff5411-b9f2-4869-95b7-87790dc52ebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register-as</value>
+      <webElementGuid>e40ea021-3c55-498a-8b67-9581e8c295ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar</value>
+      <webElementGuid>98ac7bbd-754e-4aa7-9c20-f3436f1e5c3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-white&quot;]/div[@class=&quot;sticky top-0 z-10&quot;]/div[@class=&quot;w-full z-40 flex-col flex bg-white&quot;]/div[@class=&quot;flex items-center flex-col sm:flex-row justify-around bg-white py-2 z-30 px-[22px] w-full h-full divide-x-0 sm:divide-x divide-[#9FA7BC]&quot;]/div[@class=&quot;flex items-center w-full sm:w-fit&quot;]/div[@class=&quot;sm:pl-6 hidden sm:flex flex-col sm:flex-row space-y-2 sm:space-y-0 mt-4 sm:mt-0 sm:space-x-5 w-full sm:w-fit&quot;]/button[@class=&quot;px-6 w-full sm:w-fit h-10 border rounded-lg text-white font-medium bg-secondary-70 hover:bg-secondary-40&quot;]</value>
+      <webElementGuid>10c72ce6-4758-44e2-8898-be2cd7852359</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div[2]/div[2]/div/button[2]</value>
+      <webElementGuid>c1540690-4aee-46eb-8e4a-1f02c723c1d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/following::button[1]</value>
+      <webElementGuid>2c481be7-7f36-4f80-a420-09f8dd39a9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::button[2]</value>
+      <webElementGuid>005a0318-d9b3-419d-96ab-d6dce93d39b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/preceding::button[1]</value>
+      <webElementGuid>f7243c4c-0cb4-412f-8a91-615ac7fe004a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahan Kimia'])[1]/preceding::button[1]</value>
+      <webElementGuid>cdca7eec-aee8-4963-b5e9-48fe1065920d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>ebb7077e-11a7-4311-b83f-06f063ab7d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = '/register-as' and (text() = 'Daftar' or . = 'Daftar')]</value>
+      <webElementGuid>60433d4c-f991-4716-b109-6abb3446c5cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_eye_open</name>
+   <tag></tag>
+   <elementGuidId>58ab47d4-7f3d-4bb3-8e14-07e816be3f20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-eye.icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bf0a64ce-ae77-4633-903c-c816c37ee657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-eye icon</value>
+      <webElementGuid>fa9e77f4-78c4-4dde-8421-c3c5aac0ebaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8 mx-auto&quot;]/div[@class=&quot;row no-gutters login-box&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;forms&quot;]/div[@class=&quot;form-content&quot;]/div[@class=&quot;login-form pb-5&quot;]/form[1]/div[@class=&quot;input-boxes&quot;]/div[@class=&quot;input-box&quot;]/i[@class=&quot;fas fa-eye icon&quot;]</value>
+      <webElementGuid>9b41e0b7-1acc-4d9b-a8cc-47ed8e27f253</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>18d091d9-72cb-4ce6-8915-fed987b1da05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

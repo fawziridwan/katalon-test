@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_section_seller</name>
+   <tag></tag>
+   <elementGuidId>93288038-749e-4d7e-9a96-2831394b737f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/section/div/div/div[2]/a/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4bc5b645-c704-4f9e-93c6-4f161bd4a76f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold text-lg text-paletteText-primary text-center sm:text-left</value>
+      <webElementGuid>0b34f07f-44b9-4f69-a125-463270dc24f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penjual</value>
+      <webElementGuid>d7abc269-544c-4704-980a-4386e1f5e511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[2]/section[@class=&quot;flex justify-center items-center lg:h-screen bg-login-wrapper&quot;]/div[@class=&quot;max-w-screen-lg w-full bg-white rounded-lg lg:m-6 lg:flex overflow-hidden&quot;]/div[@class=&quot;flex flex-col justify-center items-center h-screen lg:h-full w-full p-10&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/a[1]/div[@class=&quot;flex flex-col sm:flex-row space-y-4 sm:space-y-0 w-full bg-inactive rounded-lg py-3 px-5 sm:space-x-5 cursor-pointer hover:bg-gray-200 mb-4&quot;]/div[@class=&quot;flex flex-col justify-center text-paletteText-primary space-y-1&quot;]/div[@class=&quot;font-bold text-lg text-paletteText-primary text-center sm:text-left&quot;]</value>
+      <webElementGuid>c5bd6396-af29-45de-a3a7-5a47d5e94a92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/section/div/div/div[2]/a/div/div[2]/div</value>
+      <webElementGuid>9d385c3b-0a5b-4d54-8fba-d9cfcafaf3e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan diskon dan promo menarik setiap hari'])[1]/following::div[5]</value>
+      <webElementGuid>7e277ec6-9ace-4cd4-a037-07c070e56022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembeli Retail'])[1]/following::div[6]</value>
+      <webElementGuid>2b71daef-d360-4c9b-9a8b-a360dd739f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jual produk secara efisien ke BUMN maupun retail'])[1]/preceding::div[1]</value>
+      <webElementGuid>ec9343f2-2c3c-41c4-9016-57971aa73c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::div[5]</value>
+      <webElementGuid>7e9130a2-8da3-4e17-aa50-6449718a6302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Penjual']/parent::*</value>
+      <webElementGuid>e61df657-09a6-4152-a21d-445567e28939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]/div</value>
+      <webElementGuid>d5c37ba2-4737-4cbd-8a4e-d790dea4885b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Penjual' or . = 'Penjual')]</value>
+      <webElementGuid>e682c322-f5a5-414c-9e1c-2a5ff2e9beb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

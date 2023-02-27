@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pasti Untung di PaDi UMKM</name>
+   <tag></tag>
+   <elementGuidId>c8e4274b-9c38-455d-b571-8e6e5bc2be1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-2xl.text-white.font-bold.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c135cc0-cf25-4079-8fb5-065f9713df06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-2xl text-white font-bold text-center</value>
+      <webElementGuid>2e22b338-4ad9-43a8-ab85-bc3d910ca91f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pasti Untung di PaDi UMKM!</value>
+      <webElementGuid>8d7e5f4a-66bf-457b-8c68-c432e08b3ed4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[2]/div[@class=&quot;flex justify-center items-center lg:h-screen bg-login-wrapper&quot;]/div[@class=&quot;max-w-screen-lg w-full bg-white rounded-lg lg:flex overflow-hidden h-fit&quot;]/div[@class=&quot;relative bg-gradient-to-r from-[#0193AC] to-[#3EC4DB] lg:max-w-screen-sm w-full hidden lg:flex flex-col justify-center items-center space-y-7 p-10&quot;]/div[@class=&quot;space-y-4 flex-1 min-h-[144px]&quot;]/div[@class=&quot;text-2xl text-white font-bold text-center&quot;]</value>
+      <webElementGuid>eaf02051-cdfd-4b23-a210-cd680c00c91e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>2e7b0a45-0b7d-486d-a326-7d2c1a78c2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berbagai promo dan penawaran menarik setiap bulannya!'])[1]/preceding::div[1]</value>
+      <webElementGuid>deb3c281-f275-430f-9566-ea79915a11eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::div[8]</value>
+      <webElementGuid>2e4735a0-be65-4f47-8426-c00fefde3b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pasti Untung di PaDi UMKM!']/parent::*</value>
+      <webElementGuid>a7373a71-ecfd-471c-b916-ac5cff9766cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>c44872f6-9b87-4754-9828-dd6402c23b49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pasti Untung di PaDi UMKM!' or . = 'Pasti Untung di PaDi UMKM!')]</value>
+      <webElementGuid>1a10491a-7d7c-4698-adf5-7fcae59fc71f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

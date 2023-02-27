@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alamat Pengiriman</name>
+   <tag></tag>
+   <elementGuidId>d4ca94af-065b-4740-9e67-4dad4ee58a9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='menu-item-0']/div/div)[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4c43240d-e74a-4dab-a9c2-7feaa92f33ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alamat Pengiriman</value>
+      <webElementGuid>2b067c01-28f1-465c-81c9-2a8200d3e727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-white&quot;]/div[@class=&quot;sticky top-0 z-10&quot;]/div[@class=&quot;w-full z-40 flex-col flex bg-white&quot;]/div[@class=&quot;flex items-center flex-col sm:flex-row justify-around bg-white py-2 z-30 px-[22px] w-full h-full divide-x-0 sm:divide-x divide-[#9FA7BC]&quot;]/div[@class=&quot;flex items-center w-full sm:w-fit&quot;]/div[@class=&quot;sm:pl-6 hidden sm:flex flex-col sm:flex-row space-y-2 sm:space-y-0 mt-4 sm:mt-0 sm:space-x-5 w-full sm:w-fit&quot;]/div[@class=&quot;relative text-left cursor-pointer&quot;]/div[@class=&quot;overflow-hidden false right-0 origin-top-right absolute mt-2w-56 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none cursor-default z-50 w-[396px]&quot;]/div[@class=&quot;py-1&quot;]/div[@id=&quot;menu-item-0&quot;]/div[@class=&quot;flex items-center space-x-4&quot;]/div[1]</value>
+      <webElementGuid>f9cd1b8b-bf02-4c35-b39c-6bdc9fbe62e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='menu-item-0']/div/div)[9]</value>
+      <webElementGuid>87daebc5-aa6b-4a17-8d73-e570eac497f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Transaksi'])[2]/following::div[3]</value>
+      <webElementGuid>381d0627-1aaa-4aec-8264-e433af5e9d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembayaran'])[2]/following::div[6]</value>
+      <webElementGuid>ec09aca6-29c7-4c90-9124-926ff65a633b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[2]/preceding::div[4]</value>
+      <webElementGuid>953e3182-220d-4f9d-be45-93cbe55af27b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pencarian Terakhir'])[2]/preceding::div[9]</value>
+      <webElementGuid>23709641-6e32-4775-8f55-ae7a9b6c28e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[5]/div/div</value>
+      <webElementGuid>ac3f786d-fa62-407e-afba-0e6e219e69f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Alamat Pengiriman' or . = 'Alamat Pengiriman')]</value>
+      <webElementGuid>95d994d4-a5b0-4bc3-9763-72627eb994e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

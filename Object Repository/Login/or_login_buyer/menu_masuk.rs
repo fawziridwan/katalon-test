@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_masuk</name>
+   <tag></tag>
+   <elementGuidId>3798e819-f47c-4bef-8a8e-cc2d8d2ebc38</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_PaDi UMKM/button_Masuk.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/div[2]/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_PaDi UMKM/button_Masuk.png</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2f63e48a-fcb5-41e2-b7e1-a468a626dd93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-6 w-full sm:w-fit h-10 border rounded-lg border-secondary-70 text-secondary-70 font-medium hover:bg-secondary-70 hover:text-white</value>
+      <webElementGuid>4109b8b1-ad69-4256-ab2a-253f7d506693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>0eba2e11-54b2-496d-bef5-62a00a653e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>df6b329f-8466-4216-a87e-a58808ac83e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-white&quot;]/div[@class=&quot;sticky top-0 z-10&quot;]/div[@class=&quot;w-full z-40 flex-col flex bg-white&quot;]/div[@class=&quot;flex items-center flex-col sm:flex-row justify-around bg-white py-2 z-30 px-[22px] w-full h-full divide-x-0 sm:divide-x divide-[#9FA7BC]&quot;]/div[@class=&quot;flex items-center w-full sm:w-fit&quot;]/div[@class=&quot;sm:pl-6 hidden sm:flex flex-col sm:flex-row space-y-2 sm:space-y-0 mt-4 sm:mt-0 sm:space-x-5 w-full sm:w-fit&quot;]/button[@class=&quot;px-6 w-full sm:w-fit h-10 border rounded-lg border-secondary-70 text-secondary-70 font-medium hover:bg-secondary-70 hover:text-white&quot;]</value>
+      <webElementGuid>2c8cfd89-d55f-4aa5-99f0-5a69d8824994</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>d24440da-e386-44bc-9181-265740da2fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::button[1]</value>
+      <webElementGuid>458d984a-8f9a-4e96-9c7e-82f3decf306b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::button[2]</value>
+      <webElementGuid>902fbd91-b6a1-4ac7-8f0a-66eab1c13af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[2]/preceding::button[1]</value>
+      <webElementGuid>669e4a2b-33bb-432f-828d-ace16cc5bc5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/preceding::button[2]</value>
+      <webElementGuid>0b309004-0816-49be-8f44-90b3744ee7d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>4ecdc04b-8883-4e05-a8c1-387d3af5e64b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = '/login' and (text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>e315190f-b6a1-4de4-b06f-01a00b46f64e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>message_seller_email_required</name>
+   <tag></tag>
+   <elementGuidId>f181f60f-4b91-446d-b959-c003a020c19f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/form/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fe134589-0f74-4e16-8517-fedd4ff48bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xs text-accent-error-70</value>
+      <webElementGuid>62ed5629-22e3-4460-94b9-beeaeef0f6a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email wajib diisi</value>
+      <webElementGuid>0d6bdc6a-a8d3-4152-b672-7edc73201e2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex justify-center items-center min-h-screen bg-login-wrapper text-paletteText-primary&quot;]/div[@class=&quot;w-full lg:h-auto 2xl:max-w-screen-lg 2xl:h-auto w-full bg-white 2xl:rounded-lg lg:flex overflow-hidden&quot;]/div[@class=&quot;flex flex-col justify-center items-center w-full h-full px-4 lg:p-10 py-10&quot;]/form[@class=&quot;space-y-4 w-full mt-4&quot;]/div[@class=&quot;w-full&quot;]/span[@class=&quot;text-xs text-accent-error-70&quot;]</value>
+      <webElementGuid>3d69e48e-647f-4e94-b939-66dc1978d609</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/form/div[2]/span</value>
+      <webElementGuid>cb727eb5-55eb-4906-8f94-a7f21491fc4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Email'])[1]/following::span[1]</value>
+      <webElementGuid>a6eff83e-58e3-48e2-8ffa-97d757a2ebeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama lengkap wajib diisi'])[1]/following::span[1]</value>
+      <webElementGuid>c077e875-4b26-4afc-8b84-279ee31471f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone'])[1]/preceding::span[1]</value>
+      <webElementGuid>955d3468-f365-4c40-93a5-2cb691dfaa75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::span[1]</value>
+      <webElementGuid>8f152e92-467f-48e6-8911-121160e0ccf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email wajib diisi']/parent::*</value>
+      <webElementGuid>0b8f7eb4-aaea-4440-ad67-b80e3335b47e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>994e7629-e37c-4a90-b68f-abf8ac1d7324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Email wajib diisi' or . = 'Email wajib diisi')]</value>
+      <webElementGuid>7b5e6281-8944-418f-80eb-a72a838b1ad1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

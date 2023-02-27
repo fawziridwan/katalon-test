@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>close_popup</name>
+   <tag></tag>
+   <elementGuidId>3e649828-8f88-413b-8650-680e78d8a52d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='dibatalkan otomatis'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>6440152e-78ca-47e2-85af-ce71349fad3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer </value>
+      <webElementGuid>44723923-3c02-413d-84e6-ce4856a9805a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>e04a0c78-a214-48ba-813b-b89a44ce9d63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>3224d40a-d2af-4b8a-878c-c87da7270900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>6a9d2c51-353d-4c2d-a156-b78315c23dcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>7a8ecff4-75c3-4530-a302-d7bd26bfee15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>6a387aa0-0be4-4047-9665-a8f661163ff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none&quot;]/div[@class=&quot;relative w-auto my-2 mx-auto p-5&quot;]/div[@class=&quot;border-0 rounded-lg shadow-lg flex flex-col w-full bg-white outline-none focus:outline-none lg:min-w-[554px] p-8 max-w-[1000px]&quot;]/div[@class=&quot;flex flex-col items-start gap-6 w-[300px] md:w-[530px]&quot;]/div[@class=&quot;w-full flex justify-between items-center p-0&quot;]/svg[@class=&quot;cursor-pointer&quot;]</value>
+      <webElementGuid>b4fc632a-7c05-4a7c-9e78-67013c5f3059</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dibatalkan otomatis'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>840202c1-b70e-4aa2-94f5-134eb1a3fa99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batas maks 2x24 jam (hari kerja; Senin s.d. Jumat)'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>8452428e-da7b-4108-900b-7840000960f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

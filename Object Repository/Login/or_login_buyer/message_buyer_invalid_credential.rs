@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>message_buyer_invalid_credential</name>
+   <tag></tag>
+   <elementGuidId>86eb3554-80dc-4c50-8cbc-fcb72fe92079</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-xs.text-left.text-paletteText-primary.w-full</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d36ca5c4-5192-4dd7-b9c9-0b30346a7da0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xs text-left text-paletteText-primary w-full</value>
+      <webElementGuid>6a213a89-20eb-474a-bccf-a6f92ce06527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Silahkan periksa kembali email dan kata sandi anda </value>
+      <webElementGuid>27242690-8496-4695-acbf-93314740ca69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[2]/div[@class=&quot;flex justify-center items-center lg:h-screen bg-login-wrapper&quot;]/div[@class=&quot;max-w-screen-lg w-full bg-white rounded-lg lg:flex overflow-hidden h-fit&quot;]/div[@class=&quot;flex flex-col justify-center items-center w-full h-screen lg:h-full p-10&quot;]/div[@class=&quot;w-full mb-6&quot;]/div[@class=&quot;bg-accent-error-10 h-full w-full flex items-center justify-between py-4 px-3 rounded-xl space-x-2&quot;]/div[@class=&quot;text-xs text-left text-paletteText-primary w-full&quot;]</value>
+      <webElementGuid>17f8c959-2b3b-441b-b414-d98a5d878baf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>6ded8680-53e6-42e7-b569-797e822ee73c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[4]</value>
+      <webElementGuid>a57190ac-883c-4dfa-887e-f17446c7f9d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berbagai promo dan penawaran menarik setiap bulannya!'])[1]/following::div[14]</value>
+      <webElementGuid>b0ae4f3e-fb4b-43d6-b662-6d3e75fa8efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Email'])[1]/preceding::div[1]</value>
+      <webElementGuid>de034250-319b-4108-a6dd-120eccfd82b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/preceding::div[2]</value>
+      <webElementGuid>456469d2-15c4-45e1-9de2-1fad960aa5d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Silahkan']/parent::*</value>
+      <webElementGuid>ab6ab9f3-5a9a-42e3-9977-e6bed517f309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>e8653a3e-df31-4464-879e-bb6a07e45dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Silahkan periksa kembali email dan kata sandi anda ' or . = 'Silahkan periksa kembali email dan kata sandi anda ')]</value>
+      <webElementGuid>8e740775-13cb-49ae-81b5-9394f72bf3e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

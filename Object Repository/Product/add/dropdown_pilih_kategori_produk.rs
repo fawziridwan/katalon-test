@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_pilih_kategori_produk</name>
+   <tag></tag>
+   <elementGuidId>6634f0e3-187c-477e-86f2-32d08075ba6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[2]/div[2]/div[2]/div[3]/div[2]/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>21e3a4df-deab-49e5-aec6-e60db201e719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-ackcql</value>
+      <webElementGuid>e8368d8e-56a2-427d-994e-e0caee7f6ce3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex-row justify-center items-between lg:h-screen bg-white text-paletteText-primary&quot;]/div[@class=&quot;flex relative w-full&quot;]/div[@class=&quot;w-full lg:px-[30px] lg:py-[24px] px-4 py-4&quot;]/div[@class=&quot;w-full bg-white shadow-[0_0_10px_rgba(0,0,0,0.15)] rounded-md lg:px-[30px] lg:py-[24px] px-4 py-4 space-y-8 mb-6&quot;]/div[@class=&quot;w-full lg:flex justify-between lg:space-x-4 space-y-4 lg:space-y-0&quot;]/div[@class=&quot;lg:w-8/12 w-full&quot;]/div[@class=&quot;w-full space-y-4&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;css-9ob3xt-control&quot;]/div[@class=&quot;css-1d8n9bt&quot;]/div[@class=&quot;css-ackcql&quot;]</value>
+      <webElementGuid>71f5fcb5-2f4e-4385-a060-f2dae5a53a7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[2]/div[2]/div[2]/div[3]/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>cb85602c-1596-45e3-8c7a-f109b30f0243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih kategori produk'])[1]/following::div[1]</value>
+      <webElementGuid>afd7608f-5745-4321-9595-8eab4a01937e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wajib'])[3]/following::div[7]</value>
+      <webElementGuid>ae61070c-e0b5-44b0-b576-29623aef5f12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/preceding::div[4]</value>
+      <webElementGuid>9d658771-cf7c-4e33-a268-23386bf5fbe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>c37f1a34-762f-4ec6-a3b6-07cabc458d98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

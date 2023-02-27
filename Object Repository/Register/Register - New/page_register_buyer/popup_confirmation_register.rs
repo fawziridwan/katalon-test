@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>popup_confirmation_register</name>
+   <tag></tag>
+   <elementGuidId>816cc46f-29e6-412a-959c-ddb38d364ab0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/section/div[2]/div/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0085d46c-42b5-45cc-94fb-01282568fd90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base text-center sm:text-left</value>
+      <webElementGuid>6bdad2cf-c2d7-4dd8-bf4e-e23816b71256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terima kasih telah melakukan registrasi, cek email Anda untuk melakukan aktivasi akun PaDi UMKM</value>
+      <webElementGuid>bbce7edf-aee4-41c2-acc4-f856da9ca888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[2]/section[@class=&quot;flex justify-center items-center lg:h-screen bg-[#EBEBED]&quot;]/div[@class=&quot;justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none tracking-wide&quot;]/div[@class=&quot;relative w-auto my-6 mx-auto max-w-3xl&quot;]/div[@class=&quot;border-0 p-3 md:p-0 rounded-lg shadow-lg relative flex flex-col w-full bg-white outline-none focus:outline-none&quot;]/div[@class=&quot;flex flex-col sm:flex-row justify-center items-center md:m-8 space-x-4&quot;]/div[@class=&quot;flex flex-col text-paletteText-primary space-y-6 w-[314px] max-w-[314px]&quot;]/div[@class=&quot;space-y-3&quot;]/div[@class=&quot;text-base text-center sm:text-left&quot;]</value>
+      <webElementGuid>f0e7eaf4-3791-44e7-8e06-aabb62e0e935</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/section/div[2]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>e20398ee-2742-4e01-b10f-0021219a8fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Email Anda'])[1]/following::div[1]</value>
+      <webElementGuid>893a42b7-c911-43ce-9ebf-7ce6e841b223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belanja Efisien Kemana Saja'])[1]/following::div[12]</value>
+      <webElementGuid>2d67f74e-6df2-417d-b9d8-ddd3a6402096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali ke beranda'])[1]/preceding::div[1]</value>
+      <webElementGuid>04c3795c-4772-4eb4-ba02-68d738ff98a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terima kasih telah melakukan registrasi, cek email Anda untuk melakukan aktivasi akun PaDi UMKM']/parent::*</value>
+      <webElementGuid>3cba1593-ee93-4f0c-9296-cb4442ff2a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div[2]</value>
+      <webElementGuid>7a241c7b-736f-4345-b9a0-09679852f30a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Terima kasih telah melakukan registrasi, cek email Anda untuk melakukan aktivasi akun PaDi UMKM' or . = 'Terima kasih telah melakukan registrasi, cek email Anda untuk melakukan aktivasi akun PaDi UMKM')]</value>
+      <webElementGuid>8dd15f5f-bc49-4b20-ba1e-bacde4ae81e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_eye_slash</name>
+   <tag></tag>
+   <elementGuidId>bc373fbb-34b2-4b35-9c70-d7706cd00516</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.icon.fa-eye-slash</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b0878375-41c7-4238-b036-50f05be95e98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas icon fa-eye-slash</value>
+      <webElementGuid>96e56a2e-76fe-4bfd-8592-30d402cd904d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8 mx-auto&quot;]/div[@class=&quot;row no-gutters login-box&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;forms&quot;]/div[@class=&quot;form-content&quot;]/div[@class=&quot;login-form pb-5&quot;]/form[1]/div[@class=&quot;input-boxes&quot;]/div[@class=&quot;input-box&quot;]/i[@class=&quot;fas icon fa-eye-slash&quot;]</value>
+      <webElementGuid>74fdf840-b23a-4b69-bb39-1cfdc234ea30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>3dbaccec-8656-40a9-afdc-7c26512c75fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 - Register Buyer - Email Already Exists</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3db5c5b-49f8-4280-86e1-e94f69d4bc2a</testCaseGuid>
+</TestCaseEntity>

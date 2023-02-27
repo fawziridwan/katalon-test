@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>message_seller_name_required</name>
+   <tag></tag>
+   <elementGuidId>228fc651-73df-4184-b6c6-e44f5f1221f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-xs.text-accent-error-70</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/form/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>658eec87-e0c1-49d8-899d-78b239dae0ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xs text-accent-error-70</value>
+      <webElementGuid>02b29385-fa09-4a10-b1c1-ff9e0d733b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama lengkap wajib diisi</value>
+      <webElementGuid>5feefe5a-5b45-4185-96a0-4551603778f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex justify-center items-center min-h-screen bg-login-wrapper text-paletteText-primary&quot;]/div[@class=&quot;w-full lg:h-auto 2xl:max-w-screen-lg 2xl:h-auto w-full bg-white 2xl:rounded-lg lg:flex overflow-hidden&quot;]/div[@class=&quot;flex flex-col justify-center items-center w-full h-full px-4 lg:p-10 py-10&quot;]/form[@class=&quot;space-y-4 w-full mt-4&quot;]/div[@class=&quot;w-full&quot;]/span[@class=&quot;text-xs text-accent-error-70&quot;]</value>
+      <webElementGuid>61aed9bf-f848-436b-a0e8-fab0a8d6f86f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/form/div/span</value>
+      <webElementGuid>c8e1cba9-3c31-43eb-85d8-261ef4908f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/following::span[1]</value>
+      <webElementGuid>c107042f-5e0e-4c08-860c-3b2afeafdb3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sebagai Penjual'])[1]/following::span[1]</value>
+      <webElementGuid>bb169024-7dba-4585-b525-5ba8d315e7bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Email'])[1]/preceding::span[1]</value>
+      <webElementGuid>16bf7807-6dae-4f54-8b4b-1cc8b3ea1374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email wajib diisi'])[1]/preceding::span[1]</value>
+      <webElementGuid>259b4fff-1610-43cf-97d9-6ca6292a4907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nama lengkap wajib diisi']/parent::*</value>
+      <webElementGuid>304eefa3-f576-44f7-9c63-7bf2d37bf695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>0efe75e2-9f80-4ec3-87a4-46c9934cfba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nama lengkap wajib diisi' or . = 'Nama lengkap wajib diisi')]</value>
+      <webElementGuid>a13b9a36-43a8-4932-9a4a-f02d19e727ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

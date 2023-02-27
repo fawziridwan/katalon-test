@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_add_product</name>
+   <tag></tag>
+   <elementGuidId>aa852029-3aea-4892-9d8e-517928090925</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[2]/div/div/div[5]/div[2]/div[2]/a[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7b4c551d-9687-4b8a-b5d2-0ff3e5339a68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer hover:text-secondary-70</value>
+      <webElementGuid>e81e8ba6-70cd-44f2-bab2-f477298ddb80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Produk</value>
+      <webElementGuid>ff809cf1-dcd3-41a7-af69-45775f699ce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex-row justify-center items-between lg:h-screen bg-white text-paletteText-primary&quot;]/div[@class=&quot;flex relative w-full&quot;]/div[@class=&quot;bg-white lg:h-auto h-full w-[280px] border-r border-borderCard-textFieldBorder text-paletteText-primary duration-500 ease-in-out transition-all transform  md:translate-x-0 -translate-x-[280px]  md:relative absolute z-10&quot;]/div[@class=&quot;sticky top-0 flex flex-col px-4 py-1 md:py-2 overflow-y-auto&quot;]/div[5]/div[@class=&quot;flex flex-col space-y-3&quot;]/div[@class=&quot;text-paletteText-primary space-y-3 text-sm whitespace-nowrap font-semibold&quot;]/a[@class=&quot;flex&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;cursor-pointer hover:text-secondary-70&quot;]</value>
+      <webElementGuid>24d9efb7-45cd-4615-b5a1-fe6983853a67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[2]/div/div/div[5]/div[2]/div[2]/a[2]/div/div</value>
+      <webElementGuid>604cd5dd-852f-4945-b2c3-0b94cd615627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Produk'])[1]/following::div[2]</value>
+      <webElementGuid>6de8cb9f-e1d2-44c1-b220-3f24c15b4a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[1]/following::div[5]</value>
+      <webElementGuid>140194a0-6b37-4709-a8ab-7af46abf824e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penawaran'])[1]/preceding::div[4]</value>
+      <webElementGuid>bc51711e-b5a2-4eee-ae5b-32a12a76e187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permintaan Penawaran'])[1]/preceding::div[5]</value>
+      <webElementGuid>3e94c3df-4555-4af7-a33c-5fb4ac497743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah Produk']/parent::*</value>
+      <webElementGuid>3339a06c-2fb3-4301-9c91-e9b71ad3aa1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]/a[2]/div/div</value>
+      <webElementGuid>c7084e4d-c45a-4d22-a383-22826577d55a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tambah Produk' or . = 'Tambah Produk')]</value>
+      <webElementGuid>d55f5fb6-91c0-4c45-9e37-b9f97c757b43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

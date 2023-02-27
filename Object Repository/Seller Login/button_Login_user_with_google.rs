@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login_user_with_google</name>
+   <tag></tag>
+   <elementGuidId>d3d54b2d-aa9b-46a1-9984-9317614cc90c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.w-full.bg-white.py-2.border-slate-500.border-2.rounded-lg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[2]/form/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>956d7fe4-a616-47ec-989d-9c8e43a69e03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full bg-white py-2 border-slate-500 border-2 rounded-lg</value>
+      <webElementGuid>ab252bad-d182-42f1-94ab-15db551f7d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login dengan Google</value>
+      <webElementGuid>f4e5faec-4223-412e-8dc3-eee76dafd003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex justify-center items-center min-h-screen bg-login-wrapper&quot;]/div[@class=&quot;max-w-screen-lg w-full bg-white lg:rounded-lg lg:flex overflow-hidden&quot;]/div[@class=&quot;flex flex-col justify-center items-center lg:w-3/6 w-full h-full py-10 lg:px-24 px-10 space-y-4 my-auto&quot;]/form[@class=&quot;space-y-4 w-full&quot;]/div[@class=&quot;w-full&quot;]/button[@class=&quot;w-full bg-white py-2 border-slate-500 border-2 rounded-lg&quot;]</value>
+      <webElementGuid>5b4235d3-924d-4df3-8189-457ba6f667e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[2]/form/div[4]/button</value>
+      <webElementGuid>9a7d66bd-d448-46a6-9242-d3580fa2e938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::button[1]</value>
+      <webElementGuid>3141362f-7a7b-4864-83e9-7a379ac08560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::button[2]</value>
+      <webElementGuid>044e7906-8814-4f44-be14-3c366b0690e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tekan Disini'])[1]/preceding::button[1]</value>
+      <webElementGuid>0ec4401c-746f-4708-b99a-04b7e26f5425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>f867e898-6496-403d-829f-3432dafa3d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Login dengan Google' or . = 'Login dengan Google')]</value>
+      <webElementGuid>946e3afa-c88b-4234-83d1-11d7661f1f8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

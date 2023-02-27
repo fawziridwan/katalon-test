@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - Register Buyer - Name Required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9ad48c7-f63d-4bfc-9045-bad964bc7e87</testCaseGuid>
+</TestCaseEntity>
